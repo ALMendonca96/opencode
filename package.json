@@ -1,0 +1,9 @@
+{
+  "name": "opencode-setup",
+  "version": "1.0.0",
+  "description": "Custom OpenCode Go plugins and routing",
+  "dependencies": {
+    "@opencode-ai/plugin": "latest",
+    "opencode-orchestrator": "^0.9.66"
+  }
+}
